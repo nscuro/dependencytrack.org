@@ -8,4 +8,4 @@
 /download https://github.com/DependencyTrack/dependency-track/releases 302
 /github https://github.com/DependencyTrack 302
 /twitter https://twitter.com/DependencyTrack 302
-/docker-compose.yml https://raw.githubusercontent.com/DependencyTrack/dependency-track/HEAD/src/main/docker/docker-compose.yml 302
+/docker-compose.yml https://raw.githubusercontent.com/DependencyTrack/dependency-track/refs/heads/4.14.x/src/main/docker/docker-compose.yml 302
